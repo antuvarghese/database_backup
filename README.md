@@ -29,6 +29,9 @@ Manual backup
 ===============================================================================
  
 give chmod permission to database_backup.sh
+
+sudo chmod u+x database_backup.sh
+
 then run
 
 sudo ./database_backup.sh
