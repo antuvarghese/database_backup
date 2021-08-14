@@ -27,8 +27,13 @@ Manual backup
 /backup/db-backup/manual_backup
 
 ===============================================================================
-
+ 
 give chmod permission to database_backup.sh
 then run
 
 sudo ./database_backup.sh
+-------------------------------------------------------------------------------
+Note: here I used mysql database and random user and password.change database user and credentials as your needs.
+please change the values in the code as yours otherwise errors may happen.
+This was created only for reference.
+-------------------------------------------------------------------------------
